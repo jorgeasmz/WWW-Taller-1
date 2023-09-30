@@ -1,0 +1,16 @@
+# Archivos generados por Django
+__pycache__/
+*.pyc
+*.pyo
+
+# Base de datos SQLite
+db.sqlite3
+
+# Carpeta de archivos estáticos generados por collectstatic
+static/
+
+# Carpeta de archivos de medios (cargados por los usuarios)
+media/
+
+# Carpeta de entorno virtual
+env/
